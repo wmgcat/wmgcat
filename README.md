@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**wmgcat/wmgcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a game developer and artist. The main platform for my games is the web, it allows you to play my games on any device that supports javascript!
 
-Here are some ideas to get you started:
+![photo](./photo.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 My skills!
+- Javascript, Webpack, Vue, EJS, Node.JS
+- HTML, CSS/SCSS/SASS
+- Python (Messager Bots (VK, Telegram), Parsers)
+- Lua (PICO8, TIC-80, Love2D)
+
+## 🔭 I’m currently working
+I am working on my own game development engine and actively using it for my current projects on github.com/wmgcat/42eng. I release games on my website wmgcat.net and on wmgcat.itch.io
