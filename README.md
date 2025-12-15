@@ -1,13 +1,14 @@
 
-I am a game developer and artist. The main platform for my games is the web, it allows you to play my games on any device that supports javascript!
+![Avatar](./repo/avatar.gif)
 
-![photo](./photo.png)
+## About
 
-## 🌱 My skills!
-- Javascript, Webpack, Vue, EJS, Node.JS
-- HTML, CSS/SCSS/SASS
-- Python (Messager Bots (VK, Telegram), Parsers)
-- Lua (PICO8, TIC-80, Love2D)
+Full-Stack Developer. I work on web development and game development, mostly building projects for myself
 
-## 🔭 I’m currently working
-I am working on my own game development engine and actively using it for my current projects on [42eng](https://github.com/wmgcat/42eng). I release games on [my website](https://wmgcat.net) and on [itch.io](https://wmgcat.itch.io)
+[![My Skills](https://skillicons.dev/icons?i=html,js,ts,react,tailwind,nodejs,express,redis,kafka,elasticsearch,docker,python,nginx,lua,aws,bash,linux,cypress&perline=6)](https://skillicons.dev)
+
+## Website & Social
+[![banner](./repo/website.png)](https://wmgcat.net)
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wmgcat)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@wmgcat)
