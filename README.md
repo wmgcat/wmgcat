@@ -3,7 +3,7 @@
 Full-Stack Developer. I work on web development and game development, mostly building projects for myself
 
 <center>
-    <img src="./repo/avatar.gif"/>
+    <img src="./repo/banner.png"/>
 </center>
 
 ## Skills
