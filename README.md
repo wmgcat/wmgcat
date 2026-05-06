@@ -5,7 +5,7 @@
 </center>
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,js,ts,react,tailwind,nodejs,express,redis,kafka,elasticsearch,docker,python,nginx,lua,aws,bash,linux,cypress&perline=6)]()
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,bun,redis,kafka,elasticsearch,docker,nginx,aws,bash,cypress,python,lua&perline=6)
 
 ## Website & Social
 <center>
